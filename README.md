@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Sinple guide for deployemnt
+
 ## How To Contribute
