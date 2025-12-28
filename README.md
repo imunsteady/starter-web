@@ -12,4 +12,4 @@ Sinple guide for deployemnt
 
 ## How To Contribute
 
-Contribute Guide
+Contribute Guide step3
