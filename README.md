@@ -14,4 +14,4 @@ Sinple guide for deployemnt
 
 ## How To Contribute
 
-Contribute Guide step3
+Contribute Guide step3 master change
