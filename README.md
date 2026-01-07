@@ -14,4 +14,9 @@ Sinple guide for deployemnt
 
 ## How To Contribute
 
-Contribute Guide step3 master change
+Contribute Guide step3 branch change
+
+commit 1
+commit 2
+commit 3
+commit 4
